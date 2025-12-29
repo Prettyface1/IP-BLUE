@@ -9,3 +9,4 @@ const App = () => {
       <div className='flex-1 flex flex-col'>
         <Navbar className='h-16 border-b border-border' />
         <main className='flex-1 overflow-y-auto'>
+          <Dashboard />
