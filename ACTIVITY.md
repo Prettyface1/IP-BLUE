@@ -140,3 +140,4 @@
 - Add IP Secondary Marketplace Step 5
 - Add IP Secondary Marketplace Step 6
 - Add IP Secondary Marketplace Step 7
+- Add IP Secondary Marketplace Step 8
