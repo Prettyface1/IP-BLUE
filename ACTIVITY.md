@@ -159,3 +159,4 @@
 - Implement Bidding System Step 9
 - Implement Bidding System Step 10
 - Implement Bidding System Step 11
+- Implement Bidding System Step 12
