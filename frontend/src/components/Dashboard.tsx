@@ -12,3 +12,4 @@ export const Dashboard = () => {
         <StatCard icon={<TrendingUp />} title='Royalties' value='42.5 STX' delta='+5.2%' />
         <StatCard icon={<Activity />} title='Active Licenses' value='86' delta='+24%' />
         <StatCard icon={<Zap />} title='Network Latency' value='14ms' delta='stable' />
+      </div>
