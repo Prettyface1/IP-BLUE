@@ -116,3 +116,4 @@
 - Integrate Real-time Pricing Charts Step 11
 - Integrate Real-time Pricing Charts Step 12
 - Integrate Real-time Pricing Charts Step 13
+- Integrate Real-time Pricing Charts Step 14
