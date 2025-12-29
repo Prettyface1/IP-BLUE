@@ -12,3 +12,4 @@
   (let ((ip-id (var-get next-ip-id)))
     (asserts! (is-valid-title title) ERR-INVALID-INPUT)
     (asserts! (is-valid-description description) ERR-INVALID-INPUT)
+    (map-set ip-registry {ip-id: ip-id} {creator: tx-sender, title: title, description: description, total-shares: total-shares, base-price: base-price, license-type: license-type})
