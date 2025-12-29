@@ -208,3 +208,18 @@
 - Add Favorite IPs wish-list Step 13
 - Add Favorite IPs wish-list Step 14
 - Add Favorite IPs wish-list Step 15
+- Optimize IP Search and Indexing Step 1
+- Optimize IP Search and Indexing Step 2
+- Optimize IP Search and Indexing Step 3
+- Optimize IP Search and Indexing Step 4
+- Optimize IP Search and Indexing Step 5
+- Optimize IP Search and Indexing Step 6
+- Optimize IP Search and Indexing Step 7
+- Optimize IP Search and Indexing Step 8
+- Optimize IP Search and Indexing Step 9
+- Optimize IP Search and Indexing Step 10
+- Optimize IP Search and Indexing Step 11
+- Optimize IP Search and Indexing Step 12
+- Optimize IP Search and Indexing Step 13
+- Optimize IP Search and Indexing Step 14
+- Optimize IP Search and Indexing Step 15
