@@ -8,3 +8,4 @@ export const initWC = async () => {
       url: 'https://ip-blue.xyz',
       icons: ['https://walletconnect.com/walletconnect-logo.png']
     }
+  });
