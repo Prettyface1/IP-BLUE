@@ -6,3 +6,4 @@ export const network = new StacksTestnet();
 export const authenticate = () => {
   showConnect({
     appDetails: {
+      name: 'IP-BLUE',
