@@ -5,3 +5,9 @@ export interface AvatarProps {
 }
 
 export const Avatar: React.FC<AvatarProps> = ({ children, className }) => {
+  return (
+    <div className={className}>
+      {children}
+    </div>
+  );
+};
