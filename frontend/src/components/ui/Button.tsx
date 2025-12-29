@@ -5,3 +5,9 @@ export interface ButtonProps {
 }
 
 export const Button: React.FC<ButtonProps> = ({ children, className }) => {
+  return (
+    <div className={className}>
+      {children}
+    </div>
+  );
+};
