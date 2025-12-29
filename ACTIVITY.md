@@ -268,3 +268,4 @@
 - Implement Dynamic Theme Engine Step 13
 - Implement Dynamic Theme Engine Step 14
 - Implement Dynamic Theme Engine Step 15
+- Add Frontend Performance layer Step 1
