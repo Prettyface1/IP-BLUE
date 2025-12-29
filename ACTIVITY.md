@@ -39,3 +39,4 @@
 - Authorize Version Updates Step 9
 - Authorize Version Updates Step 10
 - Authorize Version Updates Step 11
+- Authorize Version Updates Step 12
