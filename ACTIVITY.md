@@ -14,3 +14,4 @@
 - Implement IP Versioning Core Step 14
 - Implement IP Versioning Core Step 15
 - Add Version Metadata Storage Step 1
+- Add Version Metadata Storage Step 2
