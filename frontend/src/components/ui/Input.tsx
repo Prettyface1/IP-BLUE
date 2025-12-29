@@ -5,3 +5,9 @@ export interface InputProps {
 }
 
 export const Input: React.FC<InputProps> = ({ children, className }) => {
+  return (
+    <div className={className}>
+      {children}
+    </div>
+  );
+};
