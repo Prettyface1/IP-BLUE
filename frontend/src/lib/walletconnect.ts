@@ -6,3 +6,4 @@ export const initWC = async () => {
       name: 'IP-BLUE',
       description: 'Integrated Protocol BLUE',
       url: 'https://ip-blue.xyz',
+      icons: ['https://walletconnect.com/walletconnect-logo.png']
