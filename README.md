@@ -10,3 +10,4 @@
 
 ## 🚀 Key Features
 
+- **Decentralized Registry**: Immutable proof of creation and ownership.
