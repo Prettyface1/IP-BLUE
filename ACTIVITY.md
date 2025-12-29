@@ -195,3 +195,4 @@
 - Implement Creator Reputation score Step 15
 - Add Favorite IPs wish-list Step 1
 - Add Favorite IPs wish-list Step 2
+- Add Favorite IPs wish-list Step 3
