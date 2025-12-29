@@ -60,3 +60,4 @@
 - Implement Dispute Resolution logic Step 15
 - Add Community Voting for Disputes Step 1
 - Add Community Voting for Disputes Step 2
+- Add Community Voting for Disputes Step 3
