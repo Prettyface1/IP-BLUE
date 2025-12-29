@@ -17,3 +17,4 @@ export const connectWC = async (client) => {
     requiredNamespaces: {
       stacks: {
         methods: ['stacks_signTransaction'],
+        chains: ['stacks:1', 'stacks:2'],
