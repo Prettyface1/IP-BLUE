@@ -224,3 +224,4 @@
 - Optimize IP Search and Indexing Step 14
 - Optimize IP Search and Indexing Step 15
 - Implement Web3 Social Sharing Step 1
+- Implement Web3 Social Sharing Step 2
