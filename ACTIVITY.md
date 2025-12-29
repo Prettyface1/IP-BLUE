@@ -58,3 +58,18 @@
 - Implement Dispute Resolution logic Step 13
 - Implement Dispute Resolution logic Step 14
 - Implement Dispute Resolution logic Step 15
+- Add Community Voting for Disputes Step 1
+- Add Community Voting for Disputes Step 2
+- Add Community Voting for Disputes Step 3
+- Add Community Voting for Disputes Step 4
+- Add Community Voting for Disputes Step 5
+- Add Community Voting for Disputes Step 6
+- Add Community Voting for Disputes Step 7
+- Add Community Voting for Disputes Step 8
+- Add Community Voting for Disputes Step 9
+- Add Community Voting for Disputes Step 10
+- Add Community Voting for Disputes Step 11
+- Add Community Voting for Disputes Step 12
+- Add Community Voting for Disputes Step 13
+- Add Community Voting for Disputes Step 14
+- Add Community Voting for Disputes Step 15
