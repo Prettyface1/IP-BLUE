@@ -14,3 +14,4 @@ export const Dashboard = () => {
         <StatCard icon={<Zap />} title='Network Latency' value='14ms' delta='stable' />
       </div>
     </div>
+  );
