@@ -12,3 +12,4 @@ const App = () => {
           <Dashboard />
         </main>
       </div>
+    </div>
