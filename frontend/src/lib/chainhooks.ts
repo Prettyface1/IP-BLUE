@@ -13,3 +13,4 @@ export const listenToIPRegistry = (client) => {
     function: 'register-ip'
   }, (data) => {
     console.log('New IP registered:', data);
+  });
