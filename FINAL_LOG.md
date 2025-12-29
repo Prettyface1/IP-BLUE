@@ -45,3 +45,4 @@
 - Documentation update 7.5 at 1767026331635
 - Documentation update 7.6 at 1767026333095
 - Documentation update 7.7 at 1767026334130
+- Documentation update 7.8 at 1767026335118
