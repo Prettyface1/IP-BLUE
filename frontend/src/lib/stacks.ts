@@ -5,3 +5,4 @@ export const userSession = new UserSession({ appConfig });
 export const network = new StacksTestnet();
 export const authenticate = () => {
   showConnect({
+    appDetails: {
