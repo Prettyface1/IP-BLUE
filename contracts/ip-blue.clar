@@ -35,3 +35,4 @@
   (let ((ip-details (unwrap! (map-get? ip-registry {ip-id: ip-id}) ERR-NOT-FOUND)))
     (asserts! (is-valid-license-type license-type) ERR-INVALID-INPUT)
     (map-set ip-licenses {ip-id: ip-id, licensee: licensee} {license-type: license-type, usage-count: usage-count, expiration: expiration, royalty-rate: royalty-rate})
+    (ok true)))
