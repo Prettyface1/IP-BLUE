@@ -16,3 +16,11 @@
     (map-set ip-ownership {ip-id: ip-id, owner: tx-sender} {shares: total-shares})
     (var-set next-ip-id (+ ip-id u1))
     (ok ip-id)))
+
+;; Transfer IP ownership shares
+(define-public (transfer-ip-shares (ip-id uint) (recipient principal) (shares uint))
+  (let ((sender-shares (default-to u0 (get shares (map-get? ip-ownership {ip-id: ip-id, owner: tx-sender})))))
+    (asserts! (>= sender-shares shares) ERR-INSUFFICIENT-BALANCE)
+    (map-set ip-ownership {ip-id: ip-id, owner: tx-sender} {shares: (- sender-shares shares)})
+    (map-set ip-ownership {ip-id: ip-id, owner: recipient} {shares: (+ (default-to u0 (get shares (map-get? ip-ownership {ip-id: ip-id, owner: recipient}))) shares)})
+    (ok true)))
