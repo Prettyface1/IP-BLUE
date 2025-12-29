@@ -13,3 +13,4 @@
     (asserts! (is-valid-title title) ERR-INVALID-INPUT)
     (asserts! (is-valid-description description) ERR-INVALID-INPUT)
     (map-set ip-registry {ip-id: ip-id} {creator: tx-sender, title: title, description: description, total-shares: total-shares, base-price: base-price, license-type: license-type})
+    (map-set ip-ownership {ip-id: ip-id, owner: tx-sender} {shares: total-shares})
