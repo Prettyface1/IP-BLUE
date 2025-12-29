@@ -5,3 +5,9 @@ export interface LoaderProps {
 }
 
 export const Loader: React.FC<LoaderProps> = ({ children, className }) => {
+  return (
+    <div className={className}>
+      {children}
+    </div>
+  );
+};
