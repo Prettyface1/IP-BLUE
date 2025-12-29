@@ -193,3 +193,4 @@
 - Documentation update 22.3 at 1767026692785
 - Documentation update 22.4 at 1767026694900
 - Documentation update 22.5 at 1767026695827
+- Documentation update 22.6 at 1767026696431
