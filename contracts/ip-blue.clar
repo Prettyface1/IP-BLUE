@@ -37,3 +37,4 @@
     (map-set ip-licenses {ip-id: ip-id, licensee: licensee} {license-type: license-type, usage-count: usage-count, expiration: expiration, royalty-rate: royalty-rate})
     (ok true)))
 
+;; Record revenue and distribute royalties
