@@ -5,3 +5,9 @@ export interface SkeletonProps {
 }
 
 export const Skeleton: React.FC<SkeletonProps> = ({ children, className }) => {
+  return (
+    <div className={className}>
+      {children}
+    </div>
+  );
+};
