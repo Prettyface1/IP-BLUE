@@ -105,3 +105,4 @@
 - Implement Revenue Stats Component Step 15
 - Integrate Real-time Pricing Charts Step 1
 - Integrate Real-time Pricing Charts Step 2
+- Integrate Real-time Pricing Charts Step 3
