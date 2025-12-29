@@ -27,3 +27,4 @@
 
 ;; Calculate royalty amount
 (define-read-only (get-royalty-amount (ip-id uint) (base-price uint))
+  (let ((ip-details (unwrap! (map-get? ip-registry {ip-id: ip-id}) (ok u0))))
