@@ -8,3 +8,4 @@ export const Dashboard = () => {
         IP-BLUE Analytics
       </motion.h1>
       <div className='grid grid-cols-1 md:grid-cols-4 gap-6'>
+        <StatCard icon={<Shield />} title='Protected Assets' value='1,284' delta='+12%' />
