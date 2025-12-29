@@ -228,3 +228,4 @@
 - Implement Web3 Social Sharing Step 3
 - Implement Web3 Social Sharing Step 4
 - Implement Web3 Social Sharing Step 5
+- Implement Web3 Social Sharing Step 6
