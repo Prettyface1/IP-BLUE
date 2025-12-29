@@ -40,3 +40,5 @@
    ```bash
    npm install
    ```
+
+3. **Start Dev Server**
