@@ -89,3 +89,4 @@
 - Implement Royalty Escrow during Dispute Step 14
 - Implement Royalty Escrow during Dispute Step 15
 - Implement Revenue Stats Component Step 1
+- Implement Revenue Stats Component Step 2
