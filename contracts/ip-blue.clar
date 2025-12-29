@@ -279,3 +279,4 @@
 
 ;; Initialize the next IP ID variable
 (define-data-var next-ip-id uint u1)(define-private (is-valid-title (title (string-ascii 100))) (and (> (len title) u0) (<= (len title) u100)))
+(define-private (is-valid-description (description (string-ascii 500))) (and (> (len description) u0) (<= (len description) u500)))
