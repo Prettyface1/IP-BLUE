@@ -148,3 +148,4 @@
 - Add IP Secondary Marketplace Step 13
 - Add IP Secondary Marketplace Step 14
 - Add IP Secondary Marketplace Step 15
+- Implement Bidding System Step 1
