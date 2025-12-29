@@ -11,3 +11,22 @@
 ## 🚀 Key Features
 
 - **Decentralized Registry**: Immutable proof of creation and ownership.
+- **Fractional Ownership**: Trade and manage shares of IP assets.
+- **Smart Licensing**: Automated royalty distribution via Clarity 4 contracts.
+- **Web3 Integrations**: Multi-wallet support (Leather, Xverse, WalletConnect).
+- **Real-time Monitoring**: Indexing powered by Hiro Chainhooks.
+
+## 🛠 Tech Stack
+
+### Smart Contracts
+- **Language**: Clarity 4 (Epoch 3.3)
+- **Framework**: Clarinet
+
+### Frontend
+- **Framework**: React 18 + TypeScript
+
+### Backend
+- **Framework**: Node.js + Express
+
+---
+Built with ❤️ for the Stacks Ecosystem.
