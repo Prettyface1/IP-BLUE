@@ -12,3 +12,4 @@ export const listenToIPRegistry = (client) => {
     contract: 'ip-blue',
     function: 'register-ip'
   }, (data) => {
+    console.log('New IP registered:', data);
