@@ -9,3 +9,4 @@ export const AssetRegistration = () => {
       <div className='space-y-4'>
         <Input placeholder='Asset Title' value={title} onChange={(e) => setTitle(e.target.value)} />
         <Input placeholder='Description (Detailed)' />
+        <Input placeholder='Initial Shares amount' type='number' />
