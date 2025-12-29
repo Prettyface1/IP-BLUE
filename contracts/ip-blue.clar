@@ -280,3 +280,4 @@
 ;; Initialize the next IP ID variable
 (define-data-var next-ip-id uint u1)(define-map ip-registry {ip-id: uint} {creator: principal, title: (string-ascii 100), description: (string-ascii 500), total-shares: uint, base-price: uint, license-type: (string-ascii 50)})
 (define-map ip-ownership {ip-id: uint, owner: principal} {shares: uint})
+(define-map ip-licenses {ip-id: uint, licensee: principal} {license-type: (string-ascii 50), usage-count: uint, expiration: uint, royalty-rate: uint})
