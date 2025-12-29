@@ -8,3 +8,4 @@
 (define-constant ERR-INVALID-INPUT (err u105))
 
 ;; Register a new IP asset
+(define-public (register-ip (title (string-ascii 100)) (description (string-ascii 500)) (total-shares uint) (base-price uint) (license-type (string-ascii 50)))
