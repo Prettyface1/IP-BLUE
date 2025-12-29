@@ -10,3 +10,4 @@ export const WalletSelector = () => {
   return (
     <div className='flex flex-col gap-4 p-6 bg-card border border-border rounded-2xl'>
       <h2 className='text-xl font-bold'>Connect Wallet</h2>
+      <Button onClick={authenticate} className='bg-primary text-white'>Connect Stacks (Leather/Xverse)</Button>
