@@ -5,3 +5,9 @@ export interface CardProps {
 }
 
 export const Card: React.FC<CardProps> = ({ children, className }) => {
+  return (
+    <div className={className}>
+      {children}
+    </div>
+  );
+};
