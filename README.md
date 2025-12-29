@@ -36,3 +36,4 @@
    git clone https://github.com/Prettyface1/IP-BLUE.git
    ```
 
+2. **Install Dependencies**
