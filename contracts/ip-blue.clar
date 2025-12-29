@@ -282,3 +282,4 @@
 (define-private (is-valid-description (description (string-ascii 500))) (and (> (len description) u0) (<= (len description) u500)))
 (define-private (is-valid-base-price (base-price uint)) (> base-price u0))
 (define-private (is-valid-license-type (license-type (string-ascii 50))) (and (> (len license-type) u0) (<= (len license-type) u50)))
+(define-private (is-valid-ip-id (ip-id uint)) (> ip-id u0))
