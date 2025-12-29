@@ -14,3 +14,4 @@ export const initWC = async () => {
 // Additional WC logic
 export const connectWC = async (client) => {
   const { uri, approval } = await client.connect({
+    requiredNamespaces: {
