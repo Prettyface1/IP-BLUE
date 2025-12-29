@@ -15,3 +15,4 @@ export const initWC = async () => {
 export const connectWC = async (client) => {
   const { uri, approval } = await client.connect({
     requiredNamespaces: {
+      stacks: {
