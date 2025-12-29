@@ -38,3 +38,4 @@
 - Authorize Version Updates Step 8
 - Authorize Version Updates Step 9
 - Authorize Version Updates Step 10
+- Authorize Version Updates Step 11
