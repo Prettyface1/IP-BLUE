@@ -13,3 +13,4 @@ export const AssetRegistration = () => {
         <Button className='w-full bg-primary py-4 hover:scale-105 transition-transform'>Create Genesis Record</Button>
       </div>
     </div>
+  );
