@@ -82,3 +82,4 @@
 - Implement Royalty Escrow during Dispute Step 7
 - Implement Royalty Escrow during Dispute Step 8
 - Implement Royalty Escrow during Dispute Step 9
+- Implement Royalty Escrow during Dispute Step 10
