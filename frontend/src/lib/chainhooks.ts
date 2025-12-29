@@ -9,3 +9,4 @@ export const setupChainhooks = () => {
 export const listenToIPRegistry = (client) => {
   client.subscribe({
     event: 'contract_call',
+    contract: 'ip-blue',
