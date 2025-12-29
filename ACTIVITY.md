@@ -222,3 +222,4 @@
 - Optimize IP Search and Indexing Step 12
 - Optimize IP Search and Indexing Step 13
 - Optimize IP Search and Indexing Step 14
+- Optimize IP Search and Indexing Step 15
