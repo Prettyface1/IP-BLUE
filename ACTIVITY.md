@@ -74,3 +74,4 @@
 - Add Community Voting for Disputes Step 14
 - Add Community Voting for Disputes Step 15
 - Implement Royalty Escrow during Dispute Step 1
+- Implement Royalty Escrow during Dispute Step 2
