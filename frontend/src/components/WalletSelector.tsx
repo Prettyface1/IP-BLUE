@@ -8,3 +8,4 @@ export const WalletSelector = () => {
     console.log('WC Client Initialized', client);
   };
   return (
+    <div className='flex flex-col gap-4 p-6 bg-card border border-border rounded-2xl'>
