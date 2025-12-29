@@ -93,3 +93,4 @@
 - Implement Revenue Stats Component Step 3
 - Implement Revenue Stats Component Step 4
 - Implement Revenue Stats Component Step 5
+- Implement Revenue Stats Component Step 6
