@@ -13,3 +13,4 @@ export const WalletSelector = () => {
       <Button onClick={authenticate} className='bg-primary text-white'>Connect Stacks (Leather/Xverse)</Button>
       <Button onClick={handleWC} className='bg-secondary text-white'>Connect via WalletConnect</Button>
     </div>
+  );
