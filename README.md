@@ -45,3 +45,4 @@
    ```bash
    cd frontend
    npm run dev
+   ```
