@@ -21,3 +21,4 @@
 ### Smart Contracts
 - **Language**: Clarity 4 (Epoch 3.3)
 - **Framework**: Clarinet
+- **Key Modules**: `ip-blue.clar` (Registry & Royalties)
