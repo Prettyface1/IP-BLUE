@@ -9,3 +9,4 @@ export const Dashboard = () => {
       </motion.h1>
       <div className='grid grid-cols-1 md:grid-cols-4 gap-6'>
         <StatCard icon={<Shield />} title='Protected Assets' value='1,284' delta='+12%' />
+        <StatCard icon={<TrendingUp />} title='Royalties' value='42.5 STX' delta='+5.2%' />
