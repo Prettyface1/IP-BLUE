@@ -17,3 +17,4 @@ export const Dashboard = () => {
   );
 };
 const StatCard = ({ icon, title, value, delta }) => (
+  <div className='p-6 bg-card border border-border rounded-xl'>
