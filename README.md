@@ -13,3 +13,4 @@
 - **Decentralized Registry**: Immutable proof of creation and ownership.
 - **Fractional Ownership**: Trade and manage shares of IP assets.
 - **Smart Licensing**: Automated royalty distribution via Clarity 4 contracts.
+- **Web3 Integrations**: Multi-wallet support (Leather, Xverse, WalletConnect).
