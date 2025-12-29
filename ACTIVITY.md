@@ -163,3 +163,18 @@
 - Implement Bidding System Step 13
 - Implement Bidding System Step 14
 - Implement Bidding System Step 15
+- Add Multi-sig Escrow for Trades Step 1
+- Add Multi-sig Escrow for Trades Step 2
+- Add Multi-sig Escrow for Trades Step 3
+- Add Multi-sig Escrow for Trades Step 4
+- Add Multi-sig Escrow for Trades Step 5
+- Add Multi-sig Escrow for Trades Step 6
+- Add Multi-sig Escrow for Trades Step 7
+- Add Multi-sig Escrow for Trades Step 8
+- Add Multi-sig Escrow for Trades Step 9
+- Add Multi-sig Escrow for Trades Step 10
+- Add Multi-sig Escrow for Trades Step 11
+- Add Multi-sig Escrow for Trades Step 12
+- Add Multi-sig Escrow for Trades Step 13
+- Add Multi-sig Escrow for Trades Step 14
+- Add Multi-sig Escrow for Trades Step 15
