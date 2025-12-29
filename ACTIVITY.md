@@ -68,3 +68,4 @@
 - Add Community Voting for Disputes Step 8
 - Add Community Voting for Disputes Step 9
 - Add Community Voting for Disputes Step 10
+- Add Community Voting for Disputes Step 11
