@@ -10,3 +10,4 @@ export const listenToIPRegistry = (client) => {
   client.subscribe({
     event: 'contract_call',
     contract: 'ip-blue',
+    function: 'register-ip'
