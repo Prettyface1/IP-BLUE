@@ -5,3 +5,4 @@
 (define-constant ERR-ALREADY-EXISTS (err u102))
 (define-constant ERR-NOT-FOUND (err u103))
 (define-constant ERR-INSUFFICIENT-BALANCE (err u104))
+(define-constant ERR-INVALID-INPUT (err u105))
