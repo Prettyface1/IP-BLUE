@@ -19,3 +19,4 @@ export const connectWC = async (client) => {
         methods: ['stacks_signTransaction'],
         chains: ['stacks:1', 'stacks:2'],
         events: ['accountsChanged']
+      }
