@@ -29,3 +29,4 @@
 - **Animations**: Framer Motion
 - **Icons**: Lucide-React
 
+## 📦 Getting Started
