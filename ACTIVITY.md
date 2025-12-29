@@ -128,3 +128,4 @@
 - Implement Global activity Feed Step 8
 - Implement Global activity Feed Step 9
 - Implement Global activity Feed Step 10
+- Implement Global activity Feed Step 11
