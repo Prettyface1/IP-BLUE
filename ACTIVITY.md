@@ -239,3 +239,4 @@
 - Implement Web3 Social Sharing Step 14
 - Implement Web3 Social Sharing Step 15
 - Add Multi-channel Notification system Step 1
+- Add Multi-channel Notification system Step 2
