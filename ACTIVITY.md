@@ -30,3 +30,4 @@
 - Add Version Metadata Storage Step 15
 - Authorize Version Updates Step 1
 - Authorize Version Updates Step 2
+- Authorize Version Updates Step 3
