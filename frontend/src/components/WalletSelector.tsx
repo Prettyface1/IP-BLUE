@@ -14,3 +14,4 @@ export const WalletSelector = () => {
       <Button onClick={handleWC} className='bg-secondary text-white'>Connect via WalletConnect</Button>
     </div>
   );
+};
