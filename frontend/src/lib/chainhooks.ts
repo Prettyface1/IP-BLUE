@@ -7,3 +7,4 @@ export const setupChainhooks = () => {
   return client;
 };
 export const listenToIPRegistry = (client) => {
+  client.subscribe({
