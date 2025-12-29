@@ -19,3 +19,4 @@
 ## 🛠 Tech Stack
 
 ### Smart Contracts
+- **Language**: Clarity 4 (Epoch 3.3)
