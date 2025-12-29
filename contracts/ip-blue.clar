@@ -40,3 +40,4 @@
 ;; Record revenue and distribute royalties
 (define-public (record-revenue (ip-id uint) (amount uint))
   (let ((revenue-map (default-to {total-revenue: u0, distributed-revenue: u0} (map-get? ip-revenue {ip-id: ip-id}))))
+    (map-set ip-revenue {ip-id: ip-id} {total-revenue: (+ (get total-revenue revenue-map) amount), distributed-revenue: (get distributed-revenue revenue-map)})
