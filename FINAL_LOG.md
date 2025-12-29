@@ -49,3 +49,4 @@
 - Documentation update 7.9 at 1767026335778
 - Documentation update 7.10 at 1767026336146
 - Documentation update 8.1 at 1767026353980
+- Documentation update 8.2 at 1767026354267
