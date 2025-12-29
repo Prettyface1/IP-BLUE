@@ -5,3 +5,4 @@ export const initWC = async () => {
     metadata: {
       name: 'IP-BLUE',
       description: 'Integrated Protocol BLUE',
+      url: 'https://ip-blue.xyz',
