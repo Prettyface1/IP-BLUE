@@ -1,0 +1,13 @@
+import React from 'react';
+export interface NavbarProps {
+  children?: React.ReactNode;
+  className?: string;
+}
+
+export const Navbar: React.FC<NavbarProps> = ({ children, className }) => {
+  return (
+    <div className={className}>
+      {children}
+    </div>
+  );
+};
