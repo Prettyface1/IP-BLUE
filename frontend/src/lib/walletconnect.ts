@@ -20,3 +20,4 @@ export const connectWC = async (client) => {
         chains: ['stacks:1', 'stacks:2'],
         events: ['accountsChanged']
       }
+    }
