@@ -36,3 +36,9 @@
     (asserts! (is-valid-license-type license-type) ERR-INVALID-INPUT)
     (map-set ip-licenses {ip-id: ip-id, licensee: licensee} {license-type: license-type, usage-count: usage-count, expiration: expiration, royalty-rate: royalty-rate})
     (ok true)))
+
+;; Record revenue and distribute royalties
+(define-public (record-revenue (ip-id uint) (amount uint))
+  (let ((revenue-map (default-to {total-revenue: u0, distributed-revenue: u0} (map-get? ip-revenue {ip-id: ip-id}))))
+    (map-set ip-revenue {ip-id: ip-id} {total-revenue: (+ (get total-revenue revenue-map) amount), distributed-revenue: (get distributed-revenue revenue-map)})
+    (ok true)))
