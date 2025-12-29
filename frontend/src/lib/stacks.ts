@@ -9,3 +9,4 @@ export const authenticate = () => {
       name: 'IP-BLUE',
       icon: window.location.origin + '/logo.png',
     },
+    redirectTo: '/',
