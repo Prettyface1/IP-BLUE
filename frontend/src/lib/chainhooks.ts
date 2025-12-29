@@ -4,3 +4,4 @@ export const setupChainhooks = () => {
     baseUrl: 'https://api.hirosystems.com',
     apiKey: 'YOUR_API_KEY'
   });
+  return client;
