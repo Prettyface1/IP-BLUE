@@ -11,3 +11,4 @@ const App = () => {
         <main className='flex-1 overflow-y-auto'>
           <Dashboard />
         </main>
+      </div>
