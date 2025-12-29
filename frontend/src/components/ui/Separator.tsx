@@ -5,3 +5,9 @@ export interface SeparatorProps {
 }
 
 export const Separator: React.FC<SeparatorProps> = ({ children, className }) => {
+  return (
+    <div className={className}>
+      {children}
+    </div>
+  );
+};
