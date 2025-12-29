@@ -5,3 +5,9 @@ export interface TooltipProps {
 }
 
 export const Tooltip: React.FC<TooltipProps> = ({ children, className }) => {
+  return (
+    <div className={className}>
+      {children}
+    </div>
+  );
+};
