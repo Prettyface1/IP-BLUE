@@ -6,3 +6,4 @@ export const setupChainhooks = () => {
   });
   return client;
 };
+export const listenToIPRegistry = (client) => {
