@@ -38,3 +38,4 @@
     (ok true)))
 
 ;; Record revenue and distribute royalties
+(define-public (record-revenue (ip-id uint) (amount uint))
