@@ -23,3 +23,4 @@
 - **Framework**: Clarinet
 - **Key Modules**: `ip-blue.clar` (Registry & Royalties)
 
+### Frontend
