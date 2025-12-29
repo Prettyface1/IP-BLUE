@@ -33,3 +33,4 @@
 ;; Issue a license for IP usage
 (define-public (issue-license (ip-id uint) (licensee principal) (license-type (string-ascii 50)) (usage-count uint) (expiration uint) (royalty-rate uint))
   (let ((ip-details (unwrap! (map-get? ip-registry {ip-id: ip-id}) ERR-NOT-FOUND)))
+    (asserts! (is-valid-license-type license-type) ERR-INVALID-INPUT)
