@@ -21,3 +21,4 @@ export const connectWC = async (client) => {
         events: ['accountsChanged']
       }
     }
+  });
