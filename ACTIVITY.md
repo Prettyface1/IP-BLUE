@@ -197,3 +197,4 @@
 - Add Favorite IPs wish-list Step 2
 - Add Favorite IPs wish-list Step 3
 - Add Favorite IPs wish-list Step 4
+- Add Favorite IPs wish-list Step 5
