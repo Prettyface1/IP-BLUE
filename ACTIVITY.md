@@ -283,3 +283,18 @@
 - Add Frontend Performance layer Step 13
 - Add Frontend Performance layer Step 14
 - Add Frontend Performance layer Step 15
+- Add Security Middleware Step 1
+- Add Security Middleware Step 2
+- Add Security Middleware Step 3
+- Add Security Middleware Step 4
+- Add Security Middleware Step 5
+- Add Security Middleware Step 6
+- Add Security Middleware Step 7
+- Add Security Middleware Step 8
+- Add Security Middleware Step 9
+- Add Security Middleware Step 10
+- Add Security Middleware Step 11
+- Add Security Middleware Step 12
+- Add Security Middleware Step 13
+- Add Security Middleware Step 14
+- Add Security Middleware Step 15
