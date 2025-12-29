@@ -213,3 +213,4 @@
 - Optimize IP Search and Indexing Step 3
 - Optimize IP Search and Indexing Step 4
 - Optimize IP Search and Indexing Step 5
+- Optimize IP Search and Indexing Step 6
