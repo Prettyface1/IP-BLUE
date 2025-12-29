@@ -5,3 +5,4 @@
 ![Vite](https://img.shields.io/badge/Frontend-Vite-646CFF)
 
 **IP-BLUE** is a next-generation Intellectual Property management protocol designed for the decentralized web. It enables creators to register, license, and monetize their IP with surgical precision on the Stacks blockchain.
+
