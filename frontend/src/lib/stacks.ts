@@ -10,3 +10,4 @@ export const authenticate = () => {
       icon: window.location.origin + '/logo.png',
     },
     redirectTo: '/',
+    onFinish: () => { window.location.reload(); },
