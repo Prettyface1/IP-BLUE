@@ -43,3 +43,4 @@
 
 3. **Start Dev Server**
    ```bash
+   cd frontend
