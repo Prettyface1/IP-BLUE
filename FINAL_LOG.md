@@ -3,3 +3,4 @@
 - Documentation update 1.3 at 1767026178863
 - Documentation update 1.4 at 1767026179244
 - Documentation update 1.5 at 1767026179587
+- Documentation update 1.6 at 1767026179930
