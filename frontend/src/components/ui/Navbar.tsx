@@ -5,3 +5,9 @@ export interface NavbarProps {
 }
 
 export const Navbar: React.FC<NavbarProps> = ({ children, className }) => {
+  return (
+    <div className={className}>
+      {children}
+    </div>
+  );
+};
