@@ -186,3 +186,4 @@
 - Implement Creator Reputation score Step 6
 - Implement Creator Reputation score Step 7
 - Implement Creator Reputation score Step 8
+- Implement Creator Reputation score Step 9
