@@ -19,3 +19,4 @@
 - Add Version Metadata Storage Step 4
 - Add Version Metadata Storage Step 5
 - Add Version Metadata Storage Step 6
+- Add Version Metadata Storage Step 7
