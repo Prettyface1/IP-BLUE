@@ -13,3 +13,4 @@ export const authenticate = () => {
     onFinish: () => { window.location.reload(); },
     userSession,
   });
+};
