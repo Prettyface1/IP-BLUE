@@ -39,3 +39,4 @@
 2. **Install Dependencies**
    ```bash
    npm install
+   ```
