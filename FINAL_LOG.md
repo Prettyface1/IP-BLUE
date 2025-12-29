@@ -73,3 +73,4 @@
 - Documentation update 10.3 at 1767026399219
 - Documentation update 10.4 at 1767026399737
 - Documentation update 10.5 at 1767026400072
+- Documentation update 10.6 at 1767026400415
