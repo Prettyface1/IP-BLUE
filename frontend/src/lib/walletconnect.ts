@@ -22,3 +22,4 @@ export const connectWC = async (client) => {
       }
     }
   });
+  return { uri, approval };
