@@ -246,3 +246,4 @@
 - Add Multi-channel Notification system Step 6
 - Add Multi-channel Notification system Step 7
 - Add Multi-channel Notification system Step 8
+- Add Multi-channel Notification system Step 9
