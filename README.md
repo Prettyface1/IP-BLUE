@@ -1,13 +1,13 @@
-# IP-BLUE: Integrated Protocol BLUE
+# 🛡️ IP-BLUE | Integrated Protocol BLUE
 
-## Overview
-IP-BLUE is a premium intellectual property management protocol built on the Stacks blockchain.
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Stacks](https://img.shields.io/badge/Blockchain-Stacks-8A2BE2)
+![Vite](https://img.shields.io/badge/Frontend-Vite-646CFF)
 
-## Architecture
-The project follows a modular architecture with a Clarity smart contract core and a React-based premium frontend.
+**IP-BLUE** is a next-generation Intellectual Property management protocol designed for the decentralized web. It enables creators to register, license, and monetize their IP with surgical precision on the Stacks blockchain.
 
-## Tech Stack
-- **Blockchain**: Stacks (Clarity 4, Epoch 3.3)
-- **Frontend**: React, Vite, TailwindCSS
-- **Wallets**: @stacks/connect, WalletConnect
-- **Indexing**: @hirosystems/chainhooks-client
+---
+
+## 🚀 Key Features
+
+- **Decentralized Registry**: Immutable proof of creation and ownership.
