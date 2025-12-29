@@ -205,3 +205,4 @@
 - Add Favorite IPs wish-list Step 10
 - Add Favorite IPs wish-list Step 11
 - Add Favorite IPs wish-list Step 12
+- Add Favorite IPs wish-list Step 13
