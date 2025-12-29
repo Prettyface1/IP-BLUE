@@ -7,3 +7,4 @@
 (define-constant ERR-INSUFFICIENT-BALANCE (err u104))
 (define-constant ERR-INVALID-INPUT (err u105))
 
+;; Register a new IP asset
