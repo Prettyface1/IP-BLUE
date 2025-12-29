@@ -11,3 +11,4 @@ export const initWC = async () => {
   });
   return signClient;
 };
+// Additional WC logic
