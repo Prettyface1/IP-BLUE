@@ -283,3 +283,4 @@
 - Add Frontend Performance layer Step 13
 - Add Frontend Performance layer Step 14
 - Add Frontend Performance layer Step 15
+- Add Security Middleware Step 1
