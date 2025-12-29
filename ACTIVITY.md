@@ -17,3 +17,4 @@
 - Add Version Metadata Storage Step 2
 - Add Version Metadata Storage Step 3
 - Add Version Metadata Storage Step 4
+- Add Version Metadata Storage Step 5
