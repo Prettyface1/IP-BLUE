@@ -28,3 +28,18 @@
 - Add Version Metadata Storage Step 13
 - Add Version Metadata Storage Step 14
 - Add Version Metadata Storage Step 15
+- Authorize Version Updates Step 1
+- Authorize Version Updates Step 2
+- Authorize Version Updates Step 3
+- Authorize Version Updates Step 4
+- Authorize Version Updates Step 5
+- Authorize Version Updates Step 6
+- Authorize Version Updates Step 7
+- Authorize Version Updates Step 8
+- Authorize Version Updates Step 9
+- Authorize Version Updates Step 10
+- Authorize Version Updates Step 11
+- Authorize Version Updates Step 12
+- Authorize Version Updates Step 13
+- Authorize Version Updates Step 14
+- Authorize Version Updates Step 15
