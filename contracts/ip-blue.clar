@@ -31,3 +31,4 @@
     (ok (/ (* base-price u5) u100)))) ;; Default 5% royalty
 
 ;; Issue a license for IP usage
+(define-public (issue-license (ip-id uint) (licensee principal) (license-type (string-ascii 50)) (usage-count uint) (expiration uint) (royalty-rate uint))
