@@ -25,3 +25,4 @@
     (map-set ip-ownership {ip-id: ip-id, owner: recipient} {shares: (+ (default-to u0 (get shares (map-get? ip-ownership {ip-id: ip-id, owner: recipient}))) shares)})
     (ok true)))
 
+;; Calculate royalty amount
