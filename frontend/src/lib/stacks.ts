@@ -8,3 +8,4 @@ export const authenticate = () => {
     appDetails: {
       name: 'IP-BLUE',
       icon: window.location.origin + '/logo.png',
+    },
