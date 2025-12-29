@@ -11,3 +11,4 @@ export const listenToIPRegistry = (client) => {
     event: 'contract_call',
     contract: 'ip-blue',
     function: 'register-ip'
+  }, (data) => {
