@@ -4,3 +4,4 @@ import { Navbar } from './components/ui/Navbar';
 import { Sidebar } from './components/ui/Sidebar';
 const App = () => {
   return (
+    <div className='flex h-screen overflow-hidden'>
