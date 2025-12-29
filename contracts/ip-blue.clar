@@ -16,3 +16,4 @@
     (map-set ip-ownership {ip-id: ip-id, owner: tx-sender} {shares: total-shares})
     (var-set next-ip-id (+ ip-id u1))
     (ok ip-id)))
+
