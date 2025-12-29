@@ -16,3 +16,4 @@
 - **Web3 Integrations**: Multi-wallet support (Leather, Xverse, WalletConnect).
 - **Real-time Monitoring**: Indexing powered by Hiro Chainhooks.
 
+## 🛠 Tech Stack
