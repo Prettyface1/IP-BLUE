@@ -11,3 +11,4 @@
 (define-public (register-ip (title (string-ascii 100)) (description (string-ascii 500)) (total-shares uint) (base-price uint) (license-type (string-ascii 50)))
   (let ((ip-id (var-get next-ip-id)))
     (asserts! (is-valid-title title) ERR-INVALID-INPUT)
+    (asserts! (is-valid-description description) ERR-INVALID-INPUT)
