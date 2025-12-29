@@ -208,3 +208,4 @@
 - Add Favorite IPs wish-list Step 13
 - Add Favorite IPs wish-list Step 14
 - Add Favorite IPs wish-list Step 15
+- Optimize IP Search and Indexing Step 1
