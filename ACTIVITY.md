@@ -142,3 +142,4 @@
 - Add IP Secondary Marketplace Step 7
 - Add IP Secondary Marketplace Step 8
 - Add IP Secondary Marketplace Step 9
+- Add IP Secondary Marketplace Step 10
