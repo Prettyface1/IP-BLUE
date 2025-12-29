@@ -24,3 +24,4 @@
 - **Key Modules**: `ip-blue.clar` (Registry & Royalties)
 
 ### Frontend
+- **Framework**: React 18 + TypeScript
