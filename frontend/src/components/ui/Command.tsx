@@ -5,3 +5,9 @@ export interface CommandProps {
 }
 
 export const Command: React.FC<CommandProps> = ({ children, className }) => {
+  return (
+    <div className={className}>
+      {children}
+    </div>
+  );
+};
