@@ -18,3 +18,4 @@
     (ok ip-id)))
 
 ;; Transfer IP ownership shares
+(define-public (transfer-ip-shares (ip-id uint) (recipient principal) (shares uint))
