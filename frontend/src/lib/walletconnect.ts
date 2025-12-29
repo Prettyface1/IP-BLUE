@@ -9,3 +9,4 @@ export const initWC = async () => {
       icons: ['https://walletconnect.com/walletconnect-logo.png']
     }
   });
+  return signClient;
