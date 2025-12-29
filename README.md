@@ -37,3 +37,4 @@
    ```
 
 2. **Install Dependencies**
+   ```bash
