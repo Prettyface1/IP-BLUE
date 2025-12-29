@@ -7,3 +7,4 @@ export const WalletSelector = () => {
     const client = await initWC();
     console.log('WC Client Initialized', client);
   };
+  return (
