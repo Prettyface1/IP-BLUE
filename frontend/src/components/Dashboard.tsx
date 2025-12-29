@@ -22,3 +22,4 @@ const StatCard = ({ icon, title, value, delta }) => (
     <h3 className='text-sm text-muted-foreground uppercase tracking-wider'>{title}</h3>
     <div className='text-2xl font-bold'>{value}</div>
     <div className='text-xs text-green-500 mt-2'>{delta} from last month</div>
+  </div>
