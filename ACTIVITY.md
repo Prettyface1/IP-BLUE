@@ -163,3 +163,4 @@
 - Implement Bidding System Step 13
 - Implement Bidding System Step 14
 - Implement Bidding System Step 15
+- Add Multi-sig Escrow for Trades Step 1
