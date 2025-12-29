@@ -16,3 +16,4 @@ export const connectWC = async (client) => {
   const { uri, approval } = await client.connect({
     requiredNamespaces: {
       stacks: {
+        methods: ['stacks_signTransaction'],
