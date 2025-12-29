@@ -18,3 +18,4 @@
 
 ## 🛠 Tech Stack
 
+### Smart Contracts
