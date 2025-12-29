@@ -5,3 +5,9 @@ export interface BadgeProps {
 }
 
 export const Badge: React.FC<BadgeProps> = ({ children, className }) => {
+  return (
+    <div className={className}>
+      {children}
+    </div>
+  );
+};
