@@ -178,3 +178,18 @@
 - Add Multi-sig Escrow for Trades Step 13
 - Add Multi-sig Escrow for Trades Step 14
 - Add Multi-sig Escrow for Trades Step 15
+- Implement Creator Reputation score Step 1
+- Implement Creator Reputation score Step 2
+- Implement Creator Reputation score Step 3
+- Implement Creator Reputation score Step 4
+- Implement Creator Reputation score Step 5
+- Implement Creator Reputation score Step 6
+- Implement Creator Reputation score Step 7
+- Implement Creator Reputation score Step 8
+- Implement Creator Reputation score Step 9
+- Implement Creator Reputation score Step 10
+- Implement Creator Reputation score Step 11
+- Implement Creator Reputation score Step 12
+- Implement Creator Reputation score Step 13
+- Implement Creator Reputation score Step 14
+- Implement Creator Reputation score Step 15
