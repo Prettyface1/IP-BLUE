@@ -139,3 +139,4 @@
 - Add IP Secondary Marketplace Step 4
 - Add IP Secondary Marketplace Step 5
 - Add IP Secondary Marketplace Step 6
+- Add IP Secondary Marketplace Step 7
