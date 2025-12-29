@@ -291,3 +291,4 @@
 - Add Security Middleware Step 6
 - Add Security Middleware Step 7
 - Add Security Middleware Step 8
+- Add Security Middleware Step 9
