@@ -29,3 +29,10 @@
 (define-read-only (get-royalty-amount (ip-id uint) (base-price uint))
   (let ((ip-details (unwrap! (map-get? ip-registry {ip-id: ip-id}) (ok u0))))
     (ok (/ (* base-price u5) u100)))) ;; Default 5% royalty
+
+;; Issue a license for IP usage
+(define-public (issue-license (ip-id uint) (licensee principal) (license-type (string-ascii 50)) (usage-count uint) (expiration uint) (royalty-rate uint))
+  (let ((ip-details (unwrap! (map-get? ip-registry {ip-id: ip-id}) ERR-NOT-FOUND)))
+    (asserts! (is-valid-license-type license-type) ERR-INVALID-INPUT)
+    (map-set ip-licenses {ip-id: ip-id, licensee: licensee} {license-type: license-type, usage-count: usage-count, expiration: expiration, royalty-rate: royalty-rate})
+    (ok true)))
