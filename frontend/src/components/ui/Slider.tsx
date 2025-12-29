@@ -3,3 +3,5 @@ export interface SliderProps {
   children?: React.ReactNode;
   className?: string;
 }
+
+export const Slider: React.FC<SliderProps> = ({ children, className }) => {
