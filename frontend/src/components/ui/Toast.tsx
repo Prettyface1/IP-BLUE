@@ -5,3 +5,9 @@ export interface ToastProps {
 }
 
 export const Toast: React.FC<ToastProps> = ({ children, className }) => {
+  return (
+    <div className={className}>
+      {children}
+    </div>
+  );
+};
