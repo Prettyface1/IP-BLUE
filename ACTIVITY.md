@@ -70,3 +70,4 @@
 - Add Community Voting for Disputes Step 10
 - Add Community Voting for Disputes Step 11
 - Add Community Voting for Disputes Step 12
+- Add Community Voting for Disputes Step 13
