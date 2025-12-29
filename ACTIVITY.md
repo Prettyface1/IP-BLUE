@@ -176,3 +176,4 @@
 - Add Multi-sig Escrow for Trades Step 11
 - Add Multi-sig Escrow for Trades Step 12
 - Add Multi-sig Escrow for Trades Step 13
+- Add Multi-sig Escrow for Trades Step 14
