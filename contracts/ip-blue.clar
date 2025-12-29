@@ -24,3 +24,8 @@
     (map-set ip-ownership {ip-id: ip-id, owner: tx-sender} {shares: (- sender-shares shares)})
     (map-set ip-ownership {ip-id: ip-id, owner: recipient} {shares: (+ (default-to u0 (get shares (map-get? ip-ownership {ip-id: ip-id, owner: recipient}))) shares)})
     (ok true)))
+
+;; Calculate royalty amount
+(define-read-only (get-royalty-amount (ip-id uint) (base-price uint))
+  (let ((ip-details (unwrap! (map-get? ip-registry {ip-id: ip-id}) (ok u0))))
+    (ok (/ (* base-price u5) u100)))) ;; Default 5% royalty
