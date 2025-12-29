@@ -63,3 +63,4 @@
 - Documentation update 9.3 at 1767026377398
 - Documentation update 9.4 at 1767026378498
 - Documentation update 9.5 at 1767026379501
+- Documentation update 9.6 at 1767026380334
