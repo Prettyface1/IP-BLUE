@@ -7,3 +7,4 @@ export const authenticate = () => {
   showConnect({
     appDetails: {
       name: 'IP-BLUE',
+      icon: window.location.origin + '/logo.png',
