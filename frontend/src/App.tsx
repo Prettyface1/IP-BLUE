@@ -13,3 +13,4 @@ const App = () => {
         </main>
       </div>
     </div>
+  );
