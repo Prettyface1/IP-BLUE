@@ -54,3 +54,4 @@
 - Implement Dispute Resolution logic Step 9
 - Implement Dispute Resolution logic Step 10
 - Implement Dispute Resolution logic Step 11
+- Implement Dispute Resolution logic Step 12
