@@ -5,3 +5,4 @@ export const setupChainhooks = () => {
     apiKey: 'YOUR_API_KEY'
   });
   return client;
+};
