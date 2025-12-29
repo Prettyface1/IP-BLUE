@@ -3,3 +3,5 @@ export interface NavbarProps {
   children?: React.ReactNode;
   className?: string;
 }
+
+export const Navbar: React.FC<NavbarProps> = ({ children, className }) => {
