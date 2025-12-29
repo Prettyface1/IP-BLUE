@@ -17,3 +17,4 @@
     (var-set next-ip-id (+ ip-id u1))
     (ok ip-id)))
 
+;; Transfer IP ownership shares
