@@ -16,3 +16,4 @@ export const Dashboard = () => {
     </div>
   );
 };
+const StatCard = ({ icon, title, value, delta }) => (
