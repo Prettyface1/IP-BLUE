@@ -5,3 +5,9 @@ export interface ProgressProps {
 }
 
 export const Progress: React.FC<ProgressProps> = ({ children, className }) => {
+  return (
+    <div className={className}>
+      {children}
+    </div>
+  );
+};
