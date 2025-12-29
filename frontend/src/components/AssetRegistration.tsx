@@ -8,3 +8,4 @@ export const AssetRegistration = () => {
       <h2 className='text-2xl font-black mb-6'>Register IP Asset</h2>
       <div className='space-y-4'>
         <Input placeholder='Asset Title' value={title} onChange={(e) => setTitle(e.target.value)} />
+        <Input placeholder='Description (Detailed)' />
