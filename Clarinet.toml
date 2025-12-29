@@ -1,0 +1,19 @@
+[project]
+name = 'IP-BLUE'
+description = 'Integrated Protocol BLUE - Premium Stacks Ecosystem Project'
+authors = []
+telemetry = true
+cache_dir = '.\.cache'
+requirements = []
+[contracts.ip-blue]
+path = 'contracts/ip-blue.clar'
+clarity_version = 4
+epoch = "3.3"
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false
