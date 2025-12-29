@@ -217,3 +217,4 @@
 - Optimize IP Search and Indexing Step 7
 - Optimize IP Search and Indexing Step 8
 - Optimize IP Search and Indexing Step 9
+- Optimize IP Search and Indexing Step 10
