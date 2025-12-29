@@ -3,3 +3,4 @@ export const initWC = async () => {
   const signClient = await SignClient.init({
     projectId: 'YOUR_PROJECT_ID',
     metadata: {
+      name: 'IP-BLUE',
