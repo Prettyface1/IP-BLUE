@@ -10,3 +10,4 @@ export const AssetRegistration = () => {
         <Input placeholder='Asset Title' value={title} onChange={(e) => setTitle(e.target.value)} />
         <Input placeholder='Description (Detailed)' />
         <Input placeholder='Initial Shares amount' type='number' />
+        <Button className='w-full bg-primary py-4 hover:scale-105 transition-transform'>Create Genesis Record</Button>
