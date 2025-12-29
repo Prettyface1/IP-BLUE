@@ -14,3 +14,4 @@ export const AssetRegistration = () => {
       </div>
     </div>
   );
+};
