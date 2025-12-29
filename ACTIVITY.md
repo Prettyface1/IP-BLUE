@@ -272,3 +272,4 @@
 - Add Frontend Performance layer Step 2
 - Add Frontend Performance layer Step 3
 - Add Frontend Performance layer Step 4
+- Add Frontend Performance layer Step 5
