@@ -5,3 +5,9 @@ export interface SliderProps {
 }
 
 export const Slider: React.FC<SliderProps> = ({ children, className }) => {
+  return (
+    <div className={className}>
+      {children}
+    </div>
+  );
+};
