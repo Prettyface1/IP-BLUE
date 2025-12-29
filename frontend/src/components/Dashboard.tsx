@@ -18,3 +18,4 @@ export const Dashboard = () => {
 };
 const StatCard = ({ icon, title, value, delta }) => (
   <div className='p-6 bg-card border border-border rounded-xl'>
+    <div className='flex items-center gap-4 mb-4 text-primary'>{icon}</div>
