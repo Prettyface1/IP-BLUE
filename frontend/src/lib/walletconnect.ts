@@ -10,3 +10,4 @@ export const initWC = async () => {
     }
   });
   return signClient;
+};
