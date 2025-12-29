@@ -4,3 +4,4 @@ export const initWC = async () => {
     projectId: 'YOUR_PROJECT_ID',
     metadata: {
       name: 'IP-BLUE',
+      description: 'Integrated Protocol BLUE',
