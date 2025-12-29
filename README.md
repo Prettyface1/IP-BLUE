@@ -28,3 +28,4 @@
 - **Styling**: Vanilla CSS + Tailwind
 - **Animations**: Framer Motion
 - **Icons**: Lucide-React
+
