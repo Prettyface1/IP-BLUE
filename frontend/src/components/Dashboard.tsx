@@ -23,3 +23,4 @@ const StatCard = ({ icon, title, value, delta }) => (
     <div className='text-2xl font-bold'>{value}</div>
     <div className='text-xs text-green-500 mt-2'>{delta} from last month</div>
   </div>
+);
