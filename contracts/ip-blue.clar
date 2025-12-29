@@ -26,3 +26,4 @@
     (ok true)))
 
 ;; Calculate royalty amount
+(define-read-only (get-royalty-amount (ip-id uint) (base-price uint))
